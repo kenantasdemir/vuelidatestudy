@@ -1,24 +1,6 @@
-# vuelidatestudy
+<img src="Screenshot_1.png" alt="1"/>
 
-## Project setup
-```
-npm install
-```
+<br/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="Screenshot_2.png" alt="2"/>
